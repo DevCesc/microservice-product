@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: microservice-product
+  cloud:
+    config:
+      enabled: true
+      label: main
+      uri: http://localhost:7000
