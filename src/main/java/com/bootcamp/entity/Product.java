@@ -19,5 +19,5 @@ public class Product {
     private String type;
     private String name;
     private String description;
-    private String status;
+    private Boolean status;
 }
