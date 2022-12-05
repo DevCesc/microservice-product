@@ -1,7 +1,6 @@
 spring:
   application:
-#    name: microservice-product
-    name: micro1p
+    name: microservice-product
   cloud:
     config:
       enabled: true
