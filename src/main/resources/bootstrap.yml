@@ -1,3 +1,7 @@
+eureka:
+  instance:
+    prefer-ip-address: true
+#add
 spring:
   application:
     name: microservice-product
