@@ -14,7 +14,6 @@ import reactor.core.publisher.Mono;
 import java.net.URI;
 
 @RestController
-@RequestMapping(value = "/products")
 public class ProductController {
 
     @Autowired
